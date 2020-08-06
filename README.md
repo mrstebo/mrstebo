@@ -20,6 +20,6 @@ Since then I have been exploring lots of different languages and frameworks, and
 
 ## Stats
 
-![mrstebo's github stats](https://github-readme-stats.vercel.app/api?username=mrstebo&show_icons=true)
+![mrstebo's github stats](https://github-readme-stats.vercel.app/api?username=mrstebo&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstebo)](https://github.com/anuraghazra/github-readme-stats)
