@@ -27,3 +27,8 @@ Since then I have been exploring lots of different languages and frameworks, and
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# 🗣️ Tech Talks
+
+<!-- TECH-TALKS:START -->
+<!-- TECH-TALKS:END -->
