@@ -2,7 +2,7 @@
 
 ## Who am I? :thinking:
 
-I am a software developer from Manchester, UK. I have been programming since 2010 when I received an apprenticeship from Hitachi Automotive Systems.
+I am a software developer from Manchester, UK. I have been programming since 2010 when I got my first IT role as an apprenticeship.
 
 Since then I have been exploring lots of different languages and frameworks, and have gained understanding of Azure and AWS cloud infrastructure.
 
@@ -13,13 +13,17 @@ Since then I have been exploring lots of different languages and frameworks, and
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/steven-atkinson-79977516/) is probably the best place :wink:
 
-***I am also available for freelance development/architecture***
+**_I am also available for freelance development/architecture_**
 
-***Disclaimer: I am NOT a full time contractor...yet*** :relaxed:
-
+**_Disclaimer: I am NOT a full time contractor...yet_** :relaxed:
 
 ## Stats
 
 ![mrstebo's github stats](https://github-readme-stats.vercel.app/api?username=mrstebo&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstebo)](https://github.com/anuraghazra/github-readme-stats)
+
+# Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
