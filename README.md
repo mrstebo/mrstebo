@@ -39,6 +39,6 @@ Since then I have been exploring lots of different languages and frameworks, and
 - [Using Docker for Development](https://vimeo.com/261998587)
 
 <!-- TECH-TALKS:START -->
-
+- [Steven Atkinson - Streamlining Development with CI/CD - Manchester Web Meetup](https://www.youtube.com/watch?v=6IpTc7V3Qfs)
 - [Deploying an API using CloudFormation - Steven Atkinson - Manchester Web Meetup](https://www.youtube.com/watch?v=s-WqKkAg7qw)
 <!-- TECH-TALKS:END -->
