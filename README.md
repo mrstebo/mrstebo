@@ -26,6 +26,11 @@ Since then I have been exploring lots of different languages and frameworks, and
 # 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manchester Web Meetup #11](https://medium.com/@steven_atkinson/manchester-web-meetup-11-8e19495b9432?source=rss-4d26508a7421------2)
+- [The Flat Hierarchy](https://medium.com/@steven_atkinson/the-flat-hierarchy-2234f67a5e1d?source=rss-4d26508a7421------2)
+- [Delivering Technical Presentations](https://medium.com/@steven_atkinson/delivering-technical-presentations-ce53ebe95661?source=rss-4d26508a7421------2)
+- [How I’ve been using React Native](https://medium.com/@steven_atkinson/how-ive-been-using-react-native-1ded10799304?source=rss-4d26508a7421------2)
+- [Forget React or Vue…how about Mithril?](https://medium.com/@steven_atkinson/forget-react-or-vue-how-about-mithril-d5d1c44d77ac?source=rss-4d26508a7421------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🗣️ Tech Talks
