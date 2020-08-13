@@ -17,13 +17,13 @@ Since then I have been exploring lots of different languages and frameworks, and
 
 **_Disclaimer: I am NOT a full time contractor...yet_** :relaxed:
 
-## Stats
+## 📊 Stats
 
 ![mrstebo's github stats](https://github-readme-stats.vercel.app/api?username=mrstebo&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrstebo)](https://github.com/anuraghazra/github-readme-stats)
 
-# Latest Blog Posts
+# 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
