@@ -17,6 +17,10 @@ Since then I have been exploring lots of different languages and frameworks, and
 
 **_Disclaimer: I am NOT a full time contractor...yet_** :relaxed:
 
+## 👨🏻‍💻 Certifications
+
+![AWS Certified Solutions Architect Associate](https://images.youracclaim.com/size/120x120/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)
+
 ## 📊 Stats
 
 ![mrstebo's github stats](https://github-readme-stats.vercel.app/api?username=mrstebo&show_icons=true&count_private=true)
